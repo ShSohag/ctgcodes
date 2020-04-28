@@ -6,6 +6,9 @@
     <title>Form</title>
 </head>
 <body>
-   
+   <form>
+     <input type = "text" name = "name" required>
+     <input type = "submit" name = "submit">
+   </form>
 </body>
 </html>
